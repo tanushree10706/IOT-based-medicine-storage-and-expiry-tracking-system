@@ -20,7 +20,7 @@ Providing access via a web dashboard
  RFID-based medicine tracking,
  Real-time temperature monitoring,
  Automatic expiry calculation,
- Multi-level alerts (normal alert,critical alert),
+ Multi-level alerts (normal alert:2-3 days left ,critical alert:1-0days left),
  Web dashboard for monitoring.
 
 🛠 Tech Stack
@@ -47,13 +47,13 @@ Alerts triggered if needed →
 Data shown on OLED + Web Dashboard.
 
 📊 Results
- 83% reduction in medicine wastage
- 99.8% RFID accuracy
- ±0.3°C temperature accuracy
+ 83% reduction in medicine wastage,
+ 99.8% RFID accuracy,
+ ±0.3°C temperature accuracy and
  <500ms RFID response time
 
 🏆 Use Cases
-Homes
-Clinics
-Pharmacies
-Elderly care centers
+Homes,
+Clinics,
+Pharmacies,
+Elderly care centers.

@@ -1,6 +1,8 @@
 # IOT-based-medicine-storage-and-expiry-tracking-system
 An IoT-based Smart Medicine Fridge designed to prevent the use of expired medicines, reduce wastage, and ensure proper storage conditions using RFID, temperature monitoring, and a web dashboard.
 
+DEMO VIDEO:https://youtube.com/shorts/c6Mkm95r_cs
+
 🚨 Problem Statement
 Households and small clinics often:
 Forget medicine expiry dates,

@@ -33,7 +33,8 @@ MFRC522 RFID Reader,
 DS18B20 Temperature Sensor,
 DS3231 RTC,
 SSD1306 OLED Display,
-Buzzer.
+Buzzer.                
+Connections and information about the hardware:https://youtube.com/shorts/zfK9t2jEbow
 
 Software:
 Embedded C / Arduino (ESP32),

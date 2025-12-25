@@ -60,3 +60,5 @@ Homes,
 Clinics,
 Pharmacies,
 Elderly care centers.
+
+FOR DETAILED INFORMATION ABOUT THE PROJECT:https://docs.google.com/document/d/1Z6iB9rLD_7uVRQOJeFIeXZT6NePBG1tPCVhjSqxJvQE/edit?usp=sharing

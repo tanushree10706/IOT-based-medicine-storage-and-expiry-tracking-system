@@ -13,7 +13,7 @@ This leads to health risks and medicine wastage.
 💡 Solution
 The Medicine Inventory automates medicine management by:
 Identifying medicines using RFID,
-Monitoring temperature (2–8°C) in real time,
+Monitoring temperature in real time,
 Calculating expiry dates automatically,
 Triggering visual, audible, and web alerts and
 Providing access via a web dashboard
